@@ -1,0 +1,39 @@
+
+1º Para crear el proyecto:
+
+renegade@MiPC:~/proyectos/Angular2022$ ng new holaMundo
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+...
+
+
+2º Para ejecutar el proyecto:
+
+renegade@MiPC:~/proyectos/Angular2022/holaMundo$ ng serve
+
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   1.69 MB | 
+polyfills.js          | polyfills     | 299.91 kB | 
+styles.css, styles.js | styles        | 173.22 kB | 
+main.js               | main          |  51.08 kB | 
+runtime.js            | runtime       |   6.52 kB | 
+
+                      | Initial Total |   2.21 MB
+
+Build at: 2022-01-30T22:56:19.293Z - Hash: 48177e215053b7ed - Time: 19501ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+✔ Compiled successfully.
+
+
+3º Para ver la aplicación en el navegador:
+
+http://localhost:4200/
+
+
+
+
+
